@@ -47,4 +47,4 @@ If you have any questions about the repo, open an issue or contact me directly a
 You can find more of my work at (https://github.com/altugcakmakci)
 
 ## Walkthrough
-
+https://watch.screencastify.com/v/uairJS956yOby9VxVAT7
